@@ -1,7 +1,7 @@
 # Classifying-Leukemia-with-Gene-Expression-Data
 using gene expression patterns, and to check multiple machine learning models to evaluate which works the best by implementing multiple models, including logistic regression, SVM, random forest, XG boost, and a Deep Learning model.
 
-Main Goal
+# Main Goal
 The primary goal of this project is to develop and evaluate and machine learning models that will classify between ALL and AML based on microarray gene expression data.
 Specific objectives include:
 •	Preprocess and clean gene expression data from the GEO database (GSE13159)
